@@ -1,1 +1,5 @@
-db5690fe-2da2-11e5-925f-0800272dc7ef
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World");
+    }
+}
